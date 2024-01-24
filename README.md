@@ -9,3 +9,19 @@ References
 Lin DY, Wang J, Gu Y, Zeng D (2022). Evaluating Treatment Efficacy in Hospitalized Covid-19 Patients. Submitted.
 
 Wei LJ, Lin DY, Weissfeld L (1989). Regression analysis of multivariate incomplete failure time data by modeling marginal distributions. J Am Stat Ass, 84: 1065-1073.
+
+## Download
+
+### R package:
+
+COVID_1.0.tar.gz >> [COVID_1.0.tar.gz](COVID_1.0.tar.gz)
+
+COVID-manual.pdf >> [COVID-manual.pdf](COVID-manual.pdf)
+
+COVID-vignette.pdf >> [COVID-vignette.pdf](COVID-vignette.pdf)
+
+### SAS macro:
+
+WLW_macro.sas >> [WLW_macro.sas](WLW_macro.sas)
+
+WLW.pdf >> [WLW.pdf](WLW.pdf)
